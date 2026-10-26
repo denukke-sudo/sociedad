@@ -1,0 +1,20 @@
+NARRACIÓN DE REUSO — PROCEDENCIA
+
+Motor: Piper, versión histórica v0.0.2, proyecto de Michael Hansen (rhasspy/piper).
+Licencia del motor: MIT, copyright 2022 Michael Hansen.
+Modelo: es-mls_9972-low, español, un hablante, muestra original de 16.000 Hz.
+Fuente oficial del motor:
+https://github.com/rhasspy/piper/releases/download/v0.0.2/piper_amd64.tar.gz
+Fuente oficial del modelo:
+https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-mls_9972-low.tar.gz
+Página de la versión:
+https://github.com/rhasspy/piper/releases/tag/v0.0.2
+
+La ficha MODEL_CARD incluida en el archivo oficial identifica el conjunto de datos MLS (Multilingual LibriSpeech):
+https://www.openslr.org/94/
+La ficha declara CC BY 4.0 para el conjunto de datos:
+https://creativecommons.org/licenses/by/4.0/
+Se conserva una copia de esa ficha en el proyecto editable.
+
+Procesamiento: síntesis local del guion, ajuste de pausas silenciosas, velocidad 1,12x sin modificación de tono y normalización de volumen. No se utilizan grabaciones de voz aportadas por el usuario.
+El paquete editable incluye el audio generado; no redistribuye el motor ni los pesos del modelo.
