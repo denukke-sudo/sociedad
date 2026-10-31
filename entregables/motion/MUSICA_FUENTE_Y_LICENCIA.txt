@@ -1,0 +1,29 @@
+REUSO — MÚSICA ORIGINAL PARA MOTION GRAPHICS
+
+Título: ReUso — Un objeto, otra vida
+Creador: OpenAI Codex para el Proyecto ReUso
+Tempo: 120 BPM exactos
+Compás: 4/4
+Duración: 14,000 segundos (7 compases)
+Formato maestro: WAV PCM 16-bit, 48 kHz, estéreo
+
+Procedencia
+La pista fue sintetizada localmente para este proyecto el 31 de octubre de 2026.
+No utiliza samples, grabaciones, loops ni material musical de terceros. Todos los
+sonidos provienen de osciladores y ruido generado de forma determinista por el
+script tools/make_original_music.py.
+
+Licencia de la pista y del generador
+CC0 1.0 Universal. Se permite copiar, modificar, distribuir y usar comercialmente
+la pista sin pagar regalías ni pedir autorización. No se exige atribución.
+Texto de referencia: https://creativecommons.org/publicdomain/zero/1.0/
+
+Verificación técnica
+- Duración medida: 14,000 s
+- Frecuencia de muestreo: 48.000 Hz
+- Canales: 2
+- Volumen medio: -14,7 dBFS
+- Pico máximo: -1,0 dBFS
+- Salto en el punto de loop: 0,000122 L / 0,001648 R
+
+Archivo: ReUso_Original_120BPM.wav
